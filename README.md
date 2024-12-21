@@ -2,8 +2,6 @@
 live : https://happy20-csv.netlify.app/
 
 
-Here’s the README content in proper code format:
-
 ```markdown
 # **Alien Shooter Game**
 
