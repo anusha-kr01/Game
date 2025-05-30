@@ -1,6 +1,6 @@
-# 👾 Space Invaders Clone  
+# 👾 Space Invaders Game  
 
-**My first JavaScript game** - A simple Space Invaders clone I built when learning JavaScript fundamentals.
+**My first JavaScript game** - A simple Space Invaders game I built when learning JavaScript fundamentals.
 
 [![Play Now](https://img.shields.io/badge/PLAY-LIVE-green?style=for-the-badge)](https://happy20-csv.netlify.app/)  
 
